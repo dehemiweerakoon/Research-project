@@ -1,1 +1,19 @@
 /.ipynb_checkpoints
+/cv_classifier_model
+/cv_classifier_model-v1
+/cv_jd_semantic_model
+/resume_pdfs
+/ResumesJsonAnnotated
+data 01. csv 
+data_01_labeled.csv
+/skill_ner_model
+/test_data
+data 01.csv
+data 02.csv
+train.spacy 
+sbert_training_dataset.csv
+label_encoder.pkl
+dataset_jotpars_clean.csv
+dataset_jotpars.csv
+New Text Document.txt 
+resume.pdf 
